@@ -1,0 +1,17 @@
+1 - Identificador
+2 - Contact
+3 - Title
+4 - CONTSUPREF
+5 - DEAR
+6 - PHONE
+7 - EXT
+8 - FAX
+9 - ADDRESS1
+10 - ADDRESS2
+11 - ADDRESS3
+12 - CITY
+13 - State
+14 - ZIP
+15 - COUNTRY
+16 - MERGECODES
+17 - Email
